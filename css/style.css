@@ -1,0 +1,82 @@
+body {
+    background-image:url(/imgs/solar-panels-sunset.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.cntNav > h1 {
+    color: #29abe2;
+}
+
+#heading4 {
+    font-size: 30px;
+}
+
+.top-nav {
+    background-color: #92eb4e;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 30px;
+}
+
+
+a {
+    color: #29abe2;
+    text-decoration: none;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+
+.stock {
+    justify-content: space-evenly;
+    display:flex;
+    width: 100%;
+    height: 50vh;
+}
+.team {
+   justify-content: space-evenly;
+    display:flex;
+    width: 100%;
+    height: 50vh;
+}
+.easycleaning {
+    justify-content: space-evenly;
+    display:flex;
+    width: 100%;
+    height: 50vh;
+}
+
+.modern {
+    justify-content: space-evenly;
+    display:flex;
+    width: 100%;
+    height: 50vh;
+}
+
+.half {
+    max-width: 45%;
+    margin: 0.5em;
+    font-size: 1.5em;
+}
+
+.half > img {
+    border: solid 2px #92eb4e;
+    border-radius: 10px;
+}
+
+.testimonials {
+    text-align: center;
+}
+
+
